@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Task 1",
+      "description": "task description 1",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Task 2",
+      "description": "task description 2",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Task 3",
+      "description": "task description 3",
+      "completed": false
+    },
+    {
+      "name": "Nueva Tarea",
+      "description": "Esto es una Tarea de prueba",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "name": "",
+      "description": "",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
